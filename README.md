@@ -1,21 +1,21 @@
 <!--
   ====================================================================
-  🚀 SIDDESHKUMAR S (@SIDDESHKUMAR2007) - GITHUB PROFILE README
+  ☕ SIDDESHKUMAR S (@SIDDESHKUMAR2007) - JAVA & SPRING BOOT ENGINEER
   ====================================================================
 -->
 
 <div align="center">
 
-  <!-- Typing Effect Banner -->
+  <!-- Dynamic Typing Header Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Siddeshkumar+S;Full-Stack+Web+Developer;Crafting+Scalable+%26+Modern+Web+Apps;Passionate+About+Open+Source+%26+UI%2FUX;Building+The+Future+Of+The+Web..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Siddeshkumar+S;Java+%26+Spring+Boot+Backend+Developer;Problem+Solver+%7C+DSA+in+Java;Building+Scalable+REST+APIs+%26+SQL+Databases;Aspiring+Software+Engineer..." alt="Typing Banner" />
   </a>
 
   <p align="center">
-    <b>Turning ideas into elegant, high-performance web applications.</b>
+    <b>Passionate about Java, Spring Boot microservices, Data Structures & Algorithms, and clean software architecture.</b>
   </p>
 
-  <!-- Quick Social Badges Header -->
+  <!-- Quick Badges Bar -->
   <p align="center">
     <a href="https://github.com/SIDDESHKUMAR2007" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -38,69 +38,88 @@
 developer_profile:
   name: "Siddeshkumar S"
   github: "SIDDESHKUMAR2007"
-  role: "Full-Stack Web Developer"
+  core_stack: ["Java", "Spring Boot", "SQL", "DSA", "HTML/CSS/JS"]
   location: "India 🇮🇳"
-  current_focus: "Building Next.js & Node.js scalable web applications"
-  hobbies: ["Open Source", "Problem Solving", "Web Architecture 🏗️", "Coffee ☕"]
+  goal: "Mastering Enterprise Java & preparing for impactful Open Source contributions"
 ```
 
-- 🔭 **I’m currently working on**: Building modern full-stack web applications and developer tools.
-- 🌱 **I’m currently learning**: Cloud architecture, serverless systems, and AI-driven web workflows.
-- 👯 **I’m looking to collaborate on**: Open-source web projects, React/Node.js applications, and UI/UX projects.
-- 💬 **Ask me about**: JavaScript, TypeScript, React, Next.js, Node.js, REST APIs, and Web Development.
-- ⚡ **Fun fact**: I write clean code that humans can read and computers can execute efficiently!
+- ☕ **Core Focus**: Java Development, Spring Boot Backend APIs, Object-Oriented Programming (OOP).
+- 🧩 **Data Structures & Algorithms**: Actively solving DSA problems in **Java** (Arrays, Strings, Linked Lists, Trees, Graphs, Sorting/Searching).
+- ⚙️ **Backend & Database**: Designing RESTful APIs with **Spring Boot** and managing relational databases with **SQL**.
+- 🌱 **Learning & Open Source Goal**: Preparing to make my first open-source contributions in Java and Spring Boot ecosystems.
+- 💬 **Ask me about**: Java, Spring Boot, SQL queries, Data Structures, Postman API testing, and Web basics.
 
 ---
 
-### 🛠️ Tech Stack & Skillset
+### 🛠️ Specialized Tech Stack
 
 <div align="center">
 
-#### 🌐 Frontend Development
+#### ☕ Core Languages & Concepts
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/DSA_in_Java-00599C?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA in Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### ⚙️ Backend & Systems
+#### 🍃 Frameworks & Backend Technology
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=json&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
 </p>
 
-#### 🗄️ Databases & Storage
+#### 🗄️ Relational Databases
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/H2_Database-00599C?style=flat-square&logo=database&logoColor=white" alt="H2 Database" />
 </p>
 
-#### 🚀 Cloud, DevOps & Tools
+#### 🧰 Developer Tools & Environment
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 🧩 Problem Solving & DSA Focus Areas (Java)
+
+<div align="center">
+
+| Topic | Key Concepts & Operations | Language |
+| :--- | :--- | :---: |
+| **Arrays & Strings** | Two Pointers, Sliding Window, Matrix Manipulation | `Java` |
+| **Linked Lists & Recursion** | Singly/Doubly Linked Lists, Backtracking, Divide & Conquer | `Java` |
+| **Stacks & Queues** | LIFO/FIFO Operations, Expression Evaluation, Priority Queues | `Java` |
+| **Trees & Graphs** | Binary Trees, BST, Traversals (BFS/DFS), Shortest Path | `Java` |
+| **Sorting & Searching** | Binary Search, QuickSort, MergeSort, HeapSort | `Java` |
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Code Link |
+| :--- | :--- | :--- | :---: |
+| **🍃 Spring Boot REST Microservice** | Secure REST API backend with Spring Data JPA, SQL integration & Postman endpoints. | `Java` `Spring Boot` `SQL` `Postman` | [💻 View Code](https://github.com/SIDDESHKUMAR2007) |
+| **🧩 DSA Solutions in Java** | Comprehensive collection of optimized Data Structures & Algorithms implementations in Java. | `Java` `DSA` `OOP` | [💻 View Code](https://github.com/SIDDESHKUMAR2007) |
+| **🌐 Full-Stack Web Application** | Interactive web app featuring Java/Spring backend, SQL persistence, and HTML/CSS/JS frontend. | `Java` `Spring Boot` `HTML/CSS/JS` `SQL` | [💻 View Code](https://github.com/SIDDESHKUMAR2007) |
+
+---
+
+### 📊 GitHub Activity & Performance
 
 <div align="center">
 
@@ -144,15 +163,6 @@ developer_profile:
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Live Demo | Repository |
-| :--- | :--- | :--- | :---: | :---: |
-| **🚀 SaaS Web Dashboard** | Full-featured analytics dashboard with real-time chart data & Auth. | `Next.js` `TypeScript` `Tailwind` | [🔗 Demo](https://example.com) | [💻 Code](https://github.com/SIDDESHKUMAR2007) |
-| **💬 Real-Time Chat App** | Scalable WebSocket messaging app with end-to-end encryption. | `React` `Node.js` `Socket.io` | [🔗 Demo](https://example.com) | [💻 Code](https://github.com/SIDDESHKUMAR2007) |
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
@@ -172,5 +182,5 @@ developer_profile:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=20&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep%20Coding%20%26%20Building!%20%E2%98%95&fontSize=20&animation=fadeIn&fontColor=ffffff" width="100%" />
 </div>
