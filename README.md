@@ -20,6 +20,9 @@
     <a href="https://github.com/SIDDESHKUMAR2007" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <a href="https://leetcode.com/u/siddeshkumars/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
     <a href="https://linkedin.com/in/siddeshkumar-s" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -38,13 +41,15 @@
 developer_profile:
   name: "Siddeshkumar S"
   github: "SIDDESHKUMAR2007"
+  leetcode: "siddeshkumars"
+  dsa_repo: "SIDDESHKUMAR2007/DSA_JAVA"
   core_stack: ["Java", "Spring Boot", "SQL", "DSA", "HTML/CSS/JS"]
   location: "India 🇮🇳"
-  goal: "Mastering Enterprise Java & preparing for impactful Open Source contributions"
+  goal: "Mastering Enterprise Java & syncing daily LeetCode DSA progress"
 ```
 
 - ☕ **Core Focus**: Java Development, Spring Boot Backend APIs, Object-Oriented Programming (OOP).
-- 🧩 **Data Structures & Algorithms**: Actively solving DSA problems in **Java** (Arrays, Strings, Linked Lists, Trees, Graphs, Sorting/Searching).
+- 🧩 **Data Structures & Algorithms**: Solving DSA problems in **Java** on [LeetCode (@siddeshkumars)](https://leetcode.com/u/siddeshkumars/) auto-synced to [DSA_JAVA](https://github.com/SIDDESHKUMAR2007/DSA_JAVA).
 - ⚙️ **Backend & Database**: Designing RESTful APIs with **Spring Boot** and managing relational databases with **SQL**.
 - 🌱 **Learning & Open Source Goal**: Preparing to make my first open-source contributions in Java and Spring Boot ecosystems.
 - 💬 **Ask me about**: Java, Spring Boot, SQL queries, Data Structures, Postman API testing, and Web basics.
@@ -93,17 +98,24 @@ developer_profile:
 
 ---
 
-### 🧩 Problem Solving & DSA Focus Areas (Java)
+### 🧩 Problem Solving & LeetCode Statistics
 
 <div align="center">
 
-| Topic | Key Concepts & Operations | Language |
-| :--- | :--- | :---: |
-| **Arrays & Strings** | Two Pointers, Sliding Window, Matrix Manipulation | `Java` |
-| **Linked Lists & Recursion** | Singly/Doubly Linked Lists, Backtracking, Divide & Conquer | `Java` |
-| **Stacks & Queues** | LIFO/FIFO Operations, Expression Evaluation, Priority Queues | `Java` |
-| **Trees & Graphs** | Binary Trees, BST, Traversals (BFS/DFS), Shortest Path | `Java` |
-| **Sorting & Searching** | Binary Search, QuickSort, MergeSort, HeapSort | `Java` |
+  <!-- Live LeetCode Stats Card -->
+  <a href="https://leetcode.com/u/siddeshkumars/" target="_blank">
+    <img src="https://github-readme-leetcode.vercel.app/api?username=siddeshkumars&theme=tokyonight" alt="Siddeshkumar's LeetCode Stats" width="450" />
+  </a>
+
+  <br/><br/>
+
+| Topic | Key Concepts & Operations | Language | Auto-Synced Repo |
+| :--- | :--- | :---: | :---: |
+| **Arrays & Strings** | Two Pointers, Sliding Window, Matrix Manipulation | `Java` | [💻 DSA_JAVA](https://github.com/SIDDESHKUMAR2007/DSA_JAVA) |
+| **Linked Lists & Recursion** | Singly/Doubly Linked Lists, Backtracking, Divide & Conquer | `Java` | [💻 DSA_JAVA](https://github.com/SIDDESHKUMAR2007/DSA_JAVA) |
+| **Stacks & Queues** | LIFO/FIFO Operations, Expression Evaluation, Priority Queues | `Java` | [💻 DSA_JAVA](https://github.com/SIDDESHKUMAR2007/DSA_JAVA) |
+| **Trees & Graphs** | Binary Trees, BST, Traversals (BFS/DFS), Shortest Path | `Java` | [💻 DSA_JAVA](https://github.com/SIDDESHKUMAR2007/DSA_JAVA) |
+| **Sorting & Searching** | Binary Search, QuickSort, MergeSort, HeapSort | `Java` | [💻 DSA_JAVA](https://github.com/SIDDESHKUMAR2007/DSA_JAVA) |
 
 </div>
 
@@ -111,10 +123,10 @@ developer_profile:
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Code Link |
+| Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
+| **🧩 DSA Solutions in Java** | Auto-synced collection of solved LeetCode problems & algorithms in Java. | `Java` `LeetCode` `DSA` | [💻 DSA_JAVA Repo](https://github.com/SIDDESHKUMAR2007/DSA_JAVA) |
 | **🍃 Spring Boot REST Microservice** | Secure REST API backend with Spring Data JPA, SQL integration & Postman endpoints. | `Java` `Spring Boot` `SQL` `Postman` | [💻 View Code](https://github.com/SIDDESHKUMAR2007) |
-| **🧩 DSA Solutions in Java** | Comprehensive collection of optimized Data Structures & Algorithms implementations in Java. | `Java` `DSA` `OOP` | [💻 View Code](https://github.com/SIDDESHKUMAR2007) |
 | **🌐 Full-Stack Web Application** | Interactive web app featuring Java/Spring backend, SQL persistence, and HTML/CSS/JS frontend. | `Java` `Spring Boot` `HTML/CSS/JS` `SQL` | [💻 View Code](https://github.com/SIDDESHKUMAR2007) |
 
 ---
@@ -169,6 +181,9 @@ developer_profile:
 
   <a href="https://github.com/SIDDESHKUMAR2007" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/siddeshkumars/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://linkedin.com/in/siddeshkumar-s" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
