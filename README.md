@@ -8,14 +8,14 @@
 
   <!-- Dynamic Typing Header Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Siddeshkumar+S;Java+%26+Spring+Boot+Backend+Developer;Problem+Solver+%7C+DSA+in+Java;Building+Scalable+REST+APIs+%26+SQL+Databases;Aspiring+Software+Engineer..." alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Siddeshkumar+S;Java+%26+Spring+Boot+Backend+Developer;Problem+Solver+%7C+DSA+in+Java;Building+Scalable+REST+APIs+%26+SQL+Databases;Aspiring+Software+Engineer..." alt="Typing Banner" />
   </a>
 
   <p align="center">
-    <b>Passionate about Java, Spring Boot microservices, Data Structures & Algorithms, and clean software architecture.</b>
+    <b>Passionate about Java, Spring Boot Microservices, Data Structures & Algorithms, and clean software architecture.</b>
   </p>
 
-  <!-- Quick Badges Bar -->
+  <!-- Quick Badges & Profile View Counter -->
   <p align="center">
     <a href="https://github.com/SIDDESHKUMAR2007" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -29,6 +29,7 @@
     <a href="mailto:siddeshkumar.s@example.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=SIDDESHKUMAR2007&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
@@ -48,10 +49,10 @@ developer_profile:
   goal: "Mastering Enterprise Java & syncing daily LeetCode DSA progress"
 ```
 
-- ☕ **Core Focus**: Java Development, Spring Boot Backend APIs, Object-Oriented Programming (OOP).
-- 🧩 **Data Structures & Algorithms**: Solving DSA problems in **Java** on [LeetCode (@siddeshkumars)](https://leetcode.com/u/siddeshkumars/) auto-synced to [DSA_JAVA](https://github.com/SIDDESHKUMAR2007/DSA_JAVA).
-- ⚙️ **Backend & Database**: Designing RESTful APIs with **Spring Boot** and managing relational databases with **SQL**.
-- 🌱 **Learning & Open Source Goal**: Preparing to make my first open-source contributions in Java and Spring Boot ecosystems.
+- ☕ **Core Focus**: Java Development, Spring Boot Backend APIs, Object-Oriented Programming (OOP), and clean code principles.
+- 🧩 **Data Structures & Algorithms**: Solving DSA problems in **Java** on [LeetCode (@siddeshkumars)](https://leetcode.com/u/siddeshkumars/) — auto-synced daily to [DSA_JAVA](https://github.com/SIDDESHKUMAR2007/DSA_JAVA).
+- ⚙️ **Backend & Database**: Designing RESTful APIs with **Spring Boot** and managing relational databases with **MySQL & PostgreSQL**.
+- 🌱 **Learning & Open Source Goal**: Active learner exploring enterprise microservices, Spring Security, and preparing for open-source contributions.
 - 💬 **Ask me about**: Java, Spring Boot, SQL queries, Data Structures, Postman API testing, and Web basics.
 
 ---
@@ -59,6 +60,13 @@ developer_profile:
 ### 🛠️ Specialized Tech Stack
 
 <div align="center">
+
+  <!-- Visual Skill Icons Bar -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,html,css,js,git,github,vscode,linux,postman&perline=6" alt="Skill Icons" />
+  </a>
+
+  <br/><br/>
 
 #### ☕ Core Languages & Concepts
 <p>
@@ -80,18 +88,18 @@ developer_profile:
 
 #### 🗄️ Relational Databases
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/H2_Database-00599C?style=flat-square&logo=database&logoColor=white" alt="H2 Database" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/H2_Database-00599C?style=for-the-badge&logo=database&logoColor=white" alt="H2 Database" />
 </p>
 
 #### 🧰 Developer Tools & Environment
 <p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 </div>
@@ -102,12 +110,14 @@ developer_profile:
 
 <div align="center">
 
-  <!-- Live LeetCode Stats Card -->
+  <!-- Live LeetCode Stats Card (Tokyo Night Theme) -->
   <a href="https://leetcode.com/u/siddeshkumars/" target="_blank">
-    <img src="https://github-readme-leetcode.vercel.app/api?username=siddeshkumars&theme=tokyonight" alt="Siddeshkumar's LeetCode Stats" width="450" />
+    <img src="https://github-readme-leetcode.vercel.app/api?username=siddeshkumars&theme=tokyonight" alt="Siddeshkumar's LeetCode Stats" width="480" />
   </a>
 
-  <br/><br/>
+</div>
+
+<br/>
 
 | Topic | Key Concepts & Operations | Language | Auto-Synced Repo |
 | :--- | :--- | :---: | :---: |
@@ -116,8 +126,6 @@ developer_profile:
 | **Stacks & Queues** | LIFO/FIFO Operations, Expression Evaluation, Priority Queues | `Java` | [💻 DSA_JAVA](https://github.com/SIDDESHKUMAR2007/DSA_JAVA) |
 | **Trees & Graphs** | Binary Trees, BST, Traversals (BFS/DFS), Shortest Path | `Java` | [💻 DSA_JAVA](https://github.com/SIDDESHKUMAR2007/DSA_JAVA) |
 | **Sorting & Searching** | Binary Search, QuickSort, MergeSort, HeapSort | `Java` | [💻 DSA_JAVA](https://github.com/SIDDESHKUMAR2007/DSA_JAVA) |
-
-</div>
 
 ---
 
@@ -136,26 +144,22 @@ developer_profile:
 <div align="center">
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=SIDDESHKUMAR2007&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" width="100%" />
+  <a href="https://github.com/SIDDESHKUMAR2007">
+    <img src="https://github-profile-trophy.vercel.app/?username=SIDDESHKUMAR2007&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" width="100%" />
+  </a>
 
   <br/><br/>
 
   <!-- Main Stats Cards Grid -->
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SIDDESHKUMAR2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDESHKUMAR2007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="380" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDESHKUMAR2007&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SIDDESHKUMAR2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="410" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDESHKUMAR2007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="390" />
+  </p>
+
+  <p align="center">
+    <img src="https://readme-streak-stats.herokuapp.com/?user=SIDDESHKUMAR2007&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="800" />
+  </p>
 
 </div>
 
@@ -168,7 +172,7 @@ developer_profile:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDESHKUMAR2007/SIDDESHKUMAR2007/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDESHKUMAR2007/SIDDESHKUMAR2007/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/SIDDESHKUMAR2007/SIDDESHKUMAR2007/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/SIDDESHKUMAR2007/SIDDESHKUMAR2007/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 
 </div>
