@@ -8,28 +8,22 @@
 
   <!-- Dynamic Typing Header Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Siddeshkumar+S;Java+%26+Spring+Boot+Backend+Developer;Problem+Solver+%7C+DSA+in+Java;Building+Scalable+REST+APIs+%26+SQL+Databases;Aspiring+Software+Engineer..." alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Siddeshkumar+S;Java+%26+Spring+Boot+Backend+Developer;Problem+Solver+%7C+DSA+in+Java;Building+Scalable+REST+APIs+%26+SQL+Databases;Aspiring+Software+Engineer..." alt="Typing Banner" />
   </a>
 
   <p align="center">
     <b>Passionate about Java, Spring Boot Microservices, Data Structures & Algorithms, and clean software architecture.</b>
   </p>
 
-  <!-- Quick Badges & Profile View Counter -->
+  <!-- Top Badges Bar: LeetCode & LinkedIn Only -->
   <p align="center">
-    <a href="https://github.com/SIDDESHKUMAR2007" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
     <a href="https://leetcode.com/u/siddeshkumars/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
+    &nbsp;
     <a href="https://linkedin.com/in/siddeshkumar-s" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:siddeshkumar.s@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=SIDDESHKUMAR2007&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
@@ -110,9 +104,9 @@ developer_profile:
 
 <div align="center">
 
-  <!-- Live LeetCode Stats Card (Tokyo Night Theme) -->
+  <!-- Genuine Live LeetCode Stats Card (Includes User Avatar, 311 Solved, Rank & Heatmap) -->
   <a href="https://leetcode.com/u/siddeshkumars/" target="_blank">
-    <img src="https://github-readme-leetcode.vercel.app/api?username=siddeshkumars&theme=tokyonight" alt="Siddeshkumar's LeetCode Stats" width="480" />
+    <img src="https://leetcard.jacoblin.cool/siddeshkumars?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="Siddeshkumar's Live LeetCode Stats" width="550" />
   </a>
 
 </div>
@@ -139,32 +133,6 @@ developer_profile:
 
 ---
 
-### 📊 GitHub Activity & Performance
-
-<div align="center">
-
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/SIDDESHKUMAR2007">
-    <img src="https://github-profile-trophy.vercel.app/?username=SIDDESHKUMAR2007&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" width="100%" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Main Stats Cards Grid -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SIDDESHKUMAR2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="410" />
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDESHKUMAR2007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="390" />
-  </p>
-
-  <p align="center">
-    <img src="https://readme-streak-stats.herokuapp.com/?user=SIDDESHKUMAR2007&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="800" />
-  </p>
-
-</div>
-
----
-
 ### 🐍 Contribution Graph Eating Snake
 
 <div align="center">
@@ -183,17 +151,12 @@ developer_profile:
 
 <div align="center">
 
-  <a href="https://github.com/SIDDESHKUMAR2007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://leetcode.com/u/siddeshkumars/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/siddeshkumar-s" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:siddeshkumar.s@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
 </div>
